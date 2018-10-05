@@ -1,9 +1,6 @@
-//
+// Based on the original example by Christopher Baker
 // Copyright (c) 2012 Christopher Baker <https://christopherbaker.net>
-//
 // SPDX-License-Identifier:	MIT
-//
-
 
 #include "ofApp.h"
 
